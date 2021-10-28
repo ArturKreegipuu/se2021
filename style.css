@@ -1,0 +1,31 @@
+html {
+    background-color:gray;
+}
+
+body {
+    width:100%; 
+    color:brown;
+}
+h1 {
+    color:blue;
+}
+h2 {
+    font-size:200%;
+}
+div.esimene {
+    float:left; 
+    width:20%; 
+    text-align:center; 
+    font-size:medium
+}
+p {
+    font-family:calibri;
+}
+img {
+    border: 10px solid black;
+}
+div.teine {
+    float:right; 
+    margin:50px; 
+    font-family:courier;
+}
